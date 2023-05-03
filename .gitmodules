@@ -1,6 +1,8 @@
 [submodule "notes"]
 	path = notes
 	url = https://github.com/thechiragjogani/notes
+	branch = main
 [submodule "projects"]
 	path = projects
 	url = https://github.com/thechiragjogani/projects
+	branch = main
